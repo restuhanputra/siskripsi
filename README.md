@@ -14,7 +14,7 @@ Sistem Informasi Skripsi untuk memudahkan mahasiswa dalam mendaftar & memanajeme
 6. PHP ver 7.4 - 8.0.11
 
 ## Usage
-Install Required via Composer pada folder siskrip/admin
+Install phpspreadsheet via Composer pada folder siskrip/admin
 open via Terminal atau Command Prompt
 ```sh
 cd siskrip/admin
