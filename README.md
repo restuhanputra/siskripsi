@@ -29,4 +29,4 @@ composer require phpoffice/phpspreadsheet
 
 ## Bugs
 - Set Format Number PHPOffice/phpspreadsheet for report in excel
-- Driver session error at PHP ver 8.1.2
+- Driver session error at PHP ver 8.1.2 (use ver 7.4 - 8.0.11)
